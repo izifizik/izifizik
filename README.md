@@ -1,16 +1,22 @@
-### Hi there 👋
+# Kozlov Andrey / @izifizik
+Hello there 👋 \
+Glad to see you here 😋
 
-<!--
-**izifizik/izifizik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 👉👈 
+* ⚠️ 🇷🇺 Russia, Saint-Petersburg
+* 🍇 20 years old
 
-Here are some ideas to get you started:
+## Hackathons 👨🏻‍💻
+* 🏁 10 Sep 2021 MORE.tech 3.0 - "Data marketplace" case participant
+* 🏁 6 Jun 2021 DevHack - "PSB Sport Mobile App" case finalist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 📱 me
+* 📭 [Email](mailto:izifizik.17@gmail.com)
+* 🍓 [Telegram](https://t.me/IziFiziK)
+* 🍑 [VK](https://vk.com/izifizik)
+* 📷 [Instagram](https://instagram.com/lermanlermanlerman)
+
+## Some statistics 📈
+[![izifizik's github stats](https://github-readme-stats.vercel.app/api?username=izifizik&show_icons=true&theme=tokyonight)
+](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izifizik&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
