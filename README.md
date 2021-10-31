@@ -7,8 +7,8 @@ Glad to see you here 😋
 * 🍇 20 years old
 
 ## Hackathons 👨🏻‍💻
-* 🏁 10 Sep 2021 MORE.tech 3.0 - "Data marketplace" case participant
-* 🏁 6 Jun 2021 DevHack - "PSB Sport Mobile App" case finalist
+* 🏁 10 Sep 2021 MORE.tech 3.0 - ["Data marketplace"](https://github.com/izifizik/more-tech-hack) case participant
+* 🏁 6 Jun 2021 DevHack - ["PSB Sport Mobile App"](https://github.com/alyush1n/dev-hack-backend) case finalist
 
 ## Contact 📱 me
 * 📭 [Email](mailto:izifizik.17@gmail.com)
