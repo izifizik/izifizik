@@ -2,7 +2,7 @@
 Hello there 👋 \
 Glad to see you here 😋
 
-## About me 👉👈 
+## About me
 * ⚠️ 🇷🇺 Russia, Saint-Petersburg
 * 🍇 20 years old
 
@@ -13,8 +13,6 @@ Glad to see you here 😋
 ## Contact 📱 me
 * 📭 [Email](mailto:izifizik.17@gmail.com)
 * 🍓 [Telegram](https://t.me/IziFiziK)
-* 🍑 [VK](https://vk.com/izifizik)
-* 📷 [Instagram](https://instagram.com/lermanlermanlerman)
 
 ## Some statistics 📈
 [![izifizik's github stats](https://github-readme-stats.vercel.app/api?username=izifizik&show_icons=true&theme=tokyonight)
